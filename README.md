@@ -19,3 +19,6 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- "Write code that is easy to understand and maintain. Use clear and descriptive variable names, write concise and readable functions, and avoid unnecessary complexity. Remember that code is read more often than it is written, so make it easy for others (and your future self) to understand what's going on."

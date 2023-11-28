@@ -58,3 +58,4 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+Correct Email.

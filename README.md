@@ -74,3 +74,8 @@ Correct Email.
 3. Stay organized: Use project management tools and software to keep track of all your tasks and deadlines. Organizing your workflow will make it easier to stay on track and complete your goals.  
 4. Learn from others: Read blogs, watch tutorials, or join online communities to learn from other developers and their experiences. Not only will this help to improve your own skills, but it will also give you valuable insights into best practices and techniques.   
 5. Practice continuous learning: Technology is constantly evolving, so it' s essential to remain up-to-date with the latest developments and trends. Set aside time each week to read articles, attend workshops,or participate in online courses to ensure you're always improving your skills.
+
+# 2023-12-02
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potential bugs. It's important to write clear and understandable code first, and only optimize when profiling identifies performance bottlenecks.

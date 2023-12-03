@@ -79,3 +79,9 @@ Correct Email.
 - Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
 
 This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, harder maintenance, and potential bugs. It's important to write clear and understandable code first, and only optimize when profiling identifies performance bottlenecks.
+
+# 2023-12-03
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest programming languages, tools, and technologies, as well as understanding the industry' s best practices and trends.
+
+To become a successful programmer, one must also develop excellent problem-solving skills and a passion for innovation. By practicing regularly and applying creative thinking to problems, programmers can improve their ability to adapt to new challenges and develop innovative solutions. Additionally, a strong foundation in mathematics, logic, computer science, or a related field is essential for understanding and implementing complex programming concepts. 
+ 学习编程语言和技术，并不断更新知识。培养良好的问题解决能力和创新精神。具备扎实的数学、逻辑和计算机科学基础。

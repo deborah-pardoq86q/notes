@@ -95,3 +95,15 @@ To become a successful programmer, one must also develop excellent problem-solvi
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use task management tools, such as Trello or Asana, to help organize and prioritize your tasks. 
  2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out the steps needed to complete it. Creating a detailed plan will ensure you have all the information you need to successfully complete the task and will also help to avoid last-minute surprises. Break down the project into smaller, manageable tasks and allocate time for each one.  
 3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and ease of maintenance. Follow best practices, like using version control systems (such as Git), organizing code into well-structured files and folders, following coding conventions, commenting your code, using appropriate naming conventions and documenting your work. These practices will not only make your life easier as a developer but also contribute to a better overall code quality.
+
+# 2023-12-06
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Prioritize tasks: Always start with the most important task and work your way down the list. By focusing on the tasks with highest impact, you can ensure that your most critical work is completed first.
+2. Break down tasks into smaller pieces: Large projects can be overwhelming, so break them down into more manageable tasks. Then, focus on one task at a time and move on to the next when complete. 
+3. Use tools to stay organised: Use project management tools, such as Trello or Asana, to track your tasks and ensure nothing is missed. These tools can help keep you on track and make it easier to collaborate with others.  
+4. Plan your schedule: Allocate time for each task in advance and stick to your plan. Following a schedule can prevent procrastination and help ensure you stay on task.   
+5. Learn from your mistakes: As a programmer, it' s essential to learn from errors and failures. Don't be afraid to make mistakes, but learn what went wrong and how to avoid it in the future.    
+6. Stay up-to-date: Keep up with new programming languages, tools and techniques. Being knowledgeable in current technologies will make you a more valuable asset to any project.     
+7. Seek help when needed: Don’t hesitate to ask for help or advice when you need it. There is always someone more experienced who can provide guidance and support.        
+8. Practice continuous learning: Programming is a constantly evolving field, which requires constant learning and adaptation. Dedicate time to learning new skills and staying up to date with industry trends.

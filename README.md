@@ -255,3 +255,10 @@ In essence, the core values to embrace are clarity, maintainability, and a pragm
 5. Stay up-to-date with new programming languages, frameworks, tools, libraries, & technologies. Not only will this help keep your skills sharp, but it'l also make you more effective in solving problems and finding solutions.    
 6. Don' t be afraid to ask for help. Reach out to colleagues, friends, online communities, forums, blogs, tutorials, documentation, API references, whatever you need in order to solve a problem or learn something new. Remember, knowledge is power!
 7. Practice good programming habits, like commenting your code, writing modular and reusable functions, using version control systems (like Git), and following coding standards and conventions.
+
+# 2024-01-09
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. 
+
+In software development, this translates to prioritizing clear, concise code that's easy to understand and maintain over complex, overly intricate solutions. Always strive to reduce complexity by breaking down problems into smaller, manageable parts, and avoid premature optimization. Remember, code is read far more often than it is written, so write for humans first, machines second." 
+
+And a more specific one: 'Make it work, make it right, make it fast' — Kent Beck. This emphasizes the importance of following a step-by-step approach in coding: first ensure functionality, then focus on correctness and robustness, and only when those are achieved, optimize for performance."

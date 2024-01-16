@@ -295,3 +295,8 @@ Second, planning ahead is essential for staying organized and avoiding last-minu
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
 
 Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, break it down into smaller, manageable tasks and use logical thinking to identify the best solution. Practice debugging code and learning from your mistakes, which will help you become a better programmer. Additionally, learn to communicate effectively with your team members, whether they're fellow developers or non-technical individuals. Good communication is crucial for any successful project.
+
+# 2024-01-16
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, always strive for clarity and simplicity in your solutions. Avoid unnecessary complexity; it breeds bugs and hinders maintenance. Remember that code is written once but read many times over its lifetime. Optimize for readability and understandability to enhance collaboration and long-term sustainability." 
+
+"Also, 'Premature optimization is the root of all evil (or at least most of it) in programming.' — Donald Knuth. Focus on writing correct and clear code first, then optimize only when you have identified bottlenecks through profiling and analysis, not based on assumptions or guesses."

@@ -325,3 +325,8 @@ In practical terms, this could mean:
 - "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first. Optimize only when necessary and after profiling. Remember that simplicity, readability, and maintainability are key for long-term project success." 
 
 This quote by computer scientist Donald Knuth reminds us that trying to optimize code too early in the development process can lead to unnecessary complexity and potential bugs. It's better to write straightforward code initially, and then optimize specific parts once you have data to support such changes, as over-optimization without evidence can often do more harm than good.
+
+# 2024-01-21
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, always strive for simplicity in design and implementation. Complex solutions might seem impressive, but they often lead to bugs, maintenance nightmares, and hinder collaboration. Remember, code should be readable and maintainable by humans, not just machines. Optimize for clarity first; premature optimization is the root of all evil." 
+
+"In addition, 'Code is read much more often than it is written.' This emphasizes the importance of writing clean, well-structured, and self-explanatory code that others (and your future self) can easily understand and work with. Lastly, 'Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.' — Brian W. Kernighan. This reminds us to prioritize readability and modularity over convoluted cleverness."

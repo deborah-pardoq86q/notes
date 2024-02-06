@@ -395,3 +395,6 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
  -
 Next, planning ahead is crucial. Before starting a new project or a difficult task, take some time to think about how you will approach it. Break it down into smaller, manageable steps, then allocate time for each step. Creating a detailed plan will make it easier for youto stay focused and avoid getting lost in the weeds. You can also use project management tools, like TrelloTrello或AsanaAsaneAsena，to help with planning and organization. As you complete each task inyour plan, cross it off your list, allowing youtobe more accountable and focused.
+
+# 2024-02-06
+- "Keep it simple, stupid!"
